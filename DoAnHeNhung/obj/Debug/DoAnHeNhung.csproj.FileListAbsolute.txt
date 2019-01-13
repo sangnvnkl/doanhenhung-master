@@ -1,0 +1,20 @@
+E:\Documents\TAI LIEU HOC TAP\He nhung\DoAn_HeNhung\DoAnHeNhung\DoAnHeNhung\bin\Debug\DoAnHeNhung.exe.config
+E:\Documents\TAI LIEU HOC TAP\He nhung\DoAn_HeNhung\DoAnHeNhung\DoAnHeNhung\bin\Debug\DoAnHeNhung.exe
+E:\Documents\TAI LIEU HOC TAP\He nhung\DoAn_HeNhung\DoAnHeNhung\DoAnHeNhung\bin\Debug\DoAnHeNhung.pdb
+E:\Documents\TAI LIEU HOC TAP\He nhung\DoAn_HeNhung\DoAnHeNhung\DoAnHeNhung\obj\Debug\DoAnHeNhung.Properties.Resources.resources
+E:\Documents\TAI LIEU HOC TAP\He nhung\DoAn_HeNhung\DoAnHeNhung\DoAnHeNhung\obj\Debug\DoAnHeNhung.csproj.GenerateResource.cache
+E:\Documents\TAI LIEU HOC TAP\He nhung\DoAn_HeNhung\DoAnHeNhung\DoAnHeNhung\obj\Debug\DoAnHeNhung.csproj.CoreCompileInputs.cache
+E:\Documents\TAI LIEU HOC TAP\He nhung\DoAn_HeNhung\DoAnHeNhung\DoAnHeNhung\obj\Debug\DoAnHeNhung.exe
+E:\Documents\TAI LIEU HOC TAP\He nhung\DoAn_HeNhung\DoAnHeNhung\DoAnHeNhung\obj\Debug\DoAnHeNhung.pdb
+E:\Documents\TAI LIEU HOC TAP\He nhung\DoAn_HeNhung\DoAnHeNhung\DoAnHeNhung\obj\Debug\DoAnHeNhung.FormMain.resources
+E:\Documents\TAI LIEU HOC TAP\He nhung\DoAn_HeNhung\DoAnHeNhung\DoAnHeNhung\obj\Debug\DoAnHeNhung.csprojAssemblyReference.cache
+D:\Học tập\doanhenhung-master\doanhenhung-master\DoAnHeNhung\bin\Debug\DoAnHeNhung.exe.config
+D:\Học tập\doanhenhung-master\doanhenhung-master\DoAnHeNhung\bin\Debug\DoAnHeNhung.exe
+D:\Học tập\doanhenhung-master\doanhenhung-master\DoAnHeNhung\bin\Debug\DoAnHeNhung.pdb
+D:\Học tập\doanhenhung-master\doanhenhung-master\DoAnHeNhung\obj\Debug\DoAnHeNhung.csprojAssemblyReference.cache
+D:\Học tập\doanhenhung-master\doanhenhung-master\DoAnHeNhung\obj\Debug\DoAnHeNhung.FormMain.resources
+D:\Học tập\doanhenhung-master\doanhenhung-master\DoAnHeNhung\obj\Debug\DoAnHeNhung.Properties.Resources.resources
+D:\Học tập\doanhenhung-master\doanhenhung-master\DoAnHeNhung\obj\Debug\DoAnHeNhung.csproj.GenerateResource.cache
+D:\Học tập\doanhenhung-master\doanhenhung-master\DoAnHeNhung\obj\Debug\DoAnHeNhung.csproj.CoreCompileInputs.cache
+D:\Học tập\doanhenhung-master\doanhenhung-master\DoAnHeNhung\obj\Debug\DoAnHeNhung.exe
+D:\Học tập\doanhenhung-master\doanhenhung-master\DoAnHeNhung\obj\Debug\DoAnHeNhung.pdb

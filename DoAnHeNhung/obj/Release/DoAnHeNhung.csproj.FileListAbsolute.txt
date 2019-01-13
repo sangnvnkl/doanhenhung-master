@@ -1,0 +1,10 @@
+D:\Học tập\doanhenhung-master\doanhenhung-master\DoAnHeNhung\bin\Release\DoAnHeNhung.exe.config
+D:\Học tập\doanhenhung-master\doanhenhung-master\DoAnHeNhung\bin\Release\DoAnHeNhung.exe
+D:\Học tập\doanhenhung-master\doanhenhung-master\DoAnHeNhung\bin\Release\DoAnHeNhung.pdb
+D:\Học tập\doanhenhung-master\doanhenhung-master\DoAnHeNhung\obj\Release\DoAnHeNhung.FormMain.resources
+D:\Học tập\doanhenhung-master\doanhenhung-master\DoAnHeNhung\obj\Release\DoAnHeNhung.Properties.Resources.resources
+D:\Học tập\doanhenhung-master\doanhenhung-master\DoAnHeNhung\obj\Release\DoAnHeNhung.csproj.GenerateResource.cache
+D:\Học tập\doanhenhung-master\doanhenhung-master\DoAnHeNhung\obj\Release\DoAnHeNhung.csproj.CoreCompileInputs.cache
+D:\Học tập\doanhenhung-master\doanhenhung-master\DoAnHeNhung\obj\Release\DoAnHeNhung.exe
+D:\Học tập\doanhenhung-master\doanhenhung-master\DoAnHeNhung\obj\Release\DoAnHeNhung.pdb
+D:\Học tập\doanhenhung-master\doanhenhung-master\DoAnHeNhung\obj\Release\DoAnHeNhung.csprojAssemblyReference.cache
