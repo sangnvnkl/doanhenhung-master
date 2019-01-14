@@ -199,21 +199,28 @@ namespace DoAnHeNhung
 
         private void btnExport_Click(object sender, EventArgs e)
         {
-            string result = "Vibration,Celsius,Humidity,Time\n";
-            if (listView1.Items.Count < 1) {
-                MessageBox.Show("Khong co du lieu!");
-                return;
-            }
-            for (int i = 0; i < listView1.Items.Count; i++)
-            {
-                for (int j = 0; j < listView1.Columns.Count; j++)
+            try {
+                string result = "Vibration,Celsius,Humidity,Time\n";
+                if (listView1.Items.Count < 1)
                 {
-                    result += listView1.Items[i].SubItems[j].Text + ",";
+                    MessageBox.Show("Khong co du lieu!");
+                    return;
                 }
-                result = result.TrimEnd(',');
-                result = result + '\n';
+                for (int i = 0; i < listView1.Items.Count; i++)
+                {
+                    for (int j = 0; j < listView1.Columns.Count; j++)
+                    {
+                        result += listView1.Items[i].SubItems[j].Text + ",";
+                    }
+                    result = result.TrimEnd(',');
+                    result = result + '\n';
+                }
+                File.WriteAllText("export.csv", result);
+            } catch (Exception ex) {
+                MessageBox.Show("Export data khong thanh cong!");
+                throw ex;
             }
-            File.WriteAllText("export.csv", result);
+            MessageBox.Show("Export data thanh cong!");
         }
     }
 }
